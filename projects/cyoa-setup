@@ -44,14 +44,8 @@
         <div class="container">
 
             <h1 class="margin text-center">Scary-Jump Project</h1>
-            <p>I learned how to make a website using HTML and CSS. I also learned how to use spans and divs correctly. For example, I would use <code>&lt;<span>...</span>&gt;</code> and then put
+            <p>I learned how to link different files together through the IDE and github with a partner, while consecutively commiting, pushing, and pulling to finish the project.
             </p>
-            <p>
-                <code> span {
-                    color: crimson;
-                    }
-                </code>
-                    </p>
                      <p> Content: </p>
 
                     <p>Challenge:</p>
